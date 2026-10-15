@@ -15,4 +15,4 @@ I am currently a Research Assistant in the Department of Energy and Resources En
 
 ## Contact
 
-- Email: your.email@example.com
+- Email: huxs890[at]gmail.com
