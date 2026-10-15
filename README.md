@@ -1,19 +1,25 @@
+
 # Hi, I'm Xuesong Hu! 👋
 
-Welcome to my GitHub profile!
-
-I am currently a Research Assistant in the Department of Energy and Resources Engineering at Peking University.
+I am currently a Research Assistant in the Department of Energy and Resources Engineering at Peking University, China.
 
 ## Education
 
-**M.S. in Geophysics** | Tongji University | 2023-2026
-
-**B.S. in Geophysics** | Jilin University | 2019-2023
+- **M.S. in Geophysics**, Tongji University
+- **B.S. in Geophysics**, Jilin University
 
 ## Research Interests
 
-Fluid–Solid Coupling in Fractures, Rock Physics, Scientific Computing
+- Fluid–Solid Coupling in Fractures
+- Computational Fracture Mechanics
+- Scientific Computing
+
+## Research Projects
+
+- Wave-Induced Fluid Flow in Fractured Rocks
+- Seismic Wave Modeling and Imaging
+- Numerical Simulation of Dynamic Rupture
 
 ## Contact
 
-**Email:** huxs890[at]gmail.com
+- Email: your.email@example.com
