@@ -1,6 +1,6 @@
 # Hi, I'm Xuesong Hu! 👋
 
-I am currently a Research Assistant in the Department of Energy and Resources Engineering at Peking University, China.
+I am currently a Research Assistant in the Department of Energy and Resources Engineering at Peking University.
 
 ## Education
 
